@@ -27,6 +27,12 @@ A sleek and secure web-based tool for encrypting and decrypting messages using *
 
 ![WhatsApp Image 2025-04-23 at 22 48 09_b94b8cfb](https://github.com/user-attachments/assets/7d918c79-202e-448b-b543-3ceeda9e5095)
 
+🧠 Built With
+Gradio – for frontend UI
+
+cryptography – for AES encryption backend
+
+Python
 
 ## 🚀 Getting Started
 
@@ -37,9 +43,3 @@ git clone https://github.com/yourusername/aes-encryption-app.git
 cd aes-encryption-app
 pip install -r requirements.txt
 
-🧠 Built With
-Gradio – for frontend UI
-
-cryptography – for AES encryption backend
-
-Python
