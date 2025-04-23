@@ -36,3 +36,10 @@ A sleek and secure web-based tool for encrypting and decrypting messages using *
 git clone https://github.com/yourusername/aes-encryption-app.git
 cd aes-encryption-app
 pip install -r requirements.txt
+
+🧠 Built With
+Gradio – for frontend UI
+
+cryptography – for AES encryption backend
+
+Python
